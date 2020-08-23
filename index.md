@@ -21,6 +21,10 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+### My Work
+
+Solution for coursera HTML, CSS, Javascript for Web Developers. [module2-solution](/module2-solution/index.html) 
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -31,10 +35,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ravi-jhajharia/coursera-fullstack1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### My Work
-
-Solution for coursera HTML, CSS, Javascript for Web Developers. [module2-solution](/module2-solution/index.html) 
 
 ### Support or Contact
 
