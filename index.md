@@ -21,14 +21,13 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-### My Work
-
-Solution for coursera HTML, CSS, Javascript for Web Developers. [module2-solution](/module2-solution/index.html) 
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+### My Work
+
+Solution for coursera HTML, CSS, Javascript for Web Developers. [module2-solution](/module2-solution/index.html) 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
