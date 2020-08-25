@@ -5,17 +5,17 @@
 	margin:0px;
 }
 h1{
-	width:100%;
 	margin: 10px;
 	text-align:center;
 	font-size: 170%;
-	margin: 15px;
+	margin-bottom: 15px;
 }
-.row{
-	width:100%;	
+.row{ 
+/* Flex help to equate height of each element inside a block*/
+	display:flex;
 }
 .container{
-	margin:10px;
+	padding:10px;
 }
 h3{
 	position:absolute;
@@ -37,12 +37,14 @@ p{
 	background-color: #999b9e;
 	position: relative;
 	border: 1px solid black;
+	text-align:justify;
+	height:100%;
 }
 @media (min-width: 992px){
 	.col-lg-4{
 		padding:10px;
 		float:left;
-		width:33.33%
+		width:33.33%;
 	}
 }
 
@@ -55,7 +57,7 @@ p{
 		width:50%;
 	}
 	.col-md-12{
-		width:100%
+		width:100%;
 	}
 }
 
