@@ -15,7 +15,7 @@ h1{
 	display:flex;
 }
 .container{
-	padding:10px;
+	margin:10px;
 }
 h3{
 	position:absolute;
