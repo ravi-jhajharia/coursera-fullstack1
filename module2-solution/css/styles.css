@@ -11,8 +11,8 @@ h1{
 	margin-bottom: 15px;
 }
 .row{ 
-/* Flex help to equate height of each element inside a block*/
 	display:flex;
+	flex-wrap:wrap;
 }
 .container{
 	margin:10px;
