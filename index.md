@@ -30,6 +30,8 @@ Syntax highlighted code block
 
 Solution for coursera HTML, CSS, Javascript for Web Developers. [Module2 Solution](/module2-solution/index.html) 
 
+[Module3 solution](/module3-solution/index.html)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
