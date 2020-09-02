@@ -1,0 +1,35 @@
+@charset "UTF-8";
+*{
+	font-family: "Helvetica";
+} 
+
+body{
+  background-color: #000 !important;
+  font-size: 16px;
+}
+
+#header-nav li:hover,button:hover{
+  background-color: white;
+  border-radius:8px;
+}
+
+#header-nav{
+  background-color: #ffdf00; 
+}
+
+.row >#tile{
+  background-color: #ffdf00;
+  border-radius: 9px; 
+  border:1px solid white;
+  margin-bottom:20px;
+}
+
+section.container >h2{
+  margin:20px;
+  color:#fff;
+}
+
+.row #tile p{
+  padding:10px;
+  margin:0px;
+} 
